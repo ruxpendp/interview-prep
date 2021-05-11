@@ -54,6 +54,7 @@ console.log(mergeMeetings(meetings));
 
 /*
 * Commentary:
+*
 * The crux is definitely realizing you can take a greedy approach and do this in one pass if you
 * sort the meetings first. From there the actual merging gets kind of trivial.
 *
