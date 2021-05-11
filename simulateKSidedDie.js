@@ -6,7 +6,7 @@
 const rollN = n => Math.floor(Math.random() * n) + 1;
 
 // using only rollN(n), returns an integer in the range [1, k] with equal probability
-// assumes n and k are integers larger than 1.
+// assumes n and k are integers larger than 1
 const rollK = (n, k) => {
   // How many rolls do we need to make?
   // Every successive rollN() multiplies the total number of possible results by n.
