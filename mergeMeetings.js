@@ -78,6 +78,6 @@ console.log(mergeMeetings(meetings));
 * clarity/safety/maintainability etc. is worth it many times over, and pointing out and explaining
 * this decision could be an opportunity to show your knowledge and aptitude for the role (even if
 * your interviewer might not have made the same decision! But of course context is key; if you're
-* going to be implementing credit card payment processing or working some other area where
+* going to be implementing credit card payment processing or working in some other area where
 * incremental performance gains are important, maybe stick with the manual for-loop!).
 */
