@@ -29,6 +29,7 @@ console.log(hasPermutationPalindrome('gooddog'));
 
 /*
 * Commentary:
+*
 * What makes a palindrome a palindrome? Any letter found on one side of the word is also on the
 * other side, except for the middle letter if there is one. The crucial takeaway is that
 * palindrome letters come in pairs (again except for the middle one). So we can simply count the
